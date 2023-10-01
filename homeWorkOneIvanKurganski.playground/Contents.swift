@@ -12,7 +12,6 @@ for number in ourAlphabet
     if number == letter
     {
         print("The letter number \(index) in the alphabet is \(number)")
-
     }
 }
 
@@ -32,7 +31,6 @@ let array = [(nameMonth: "January", days: 31),
              (nameMonth: "October", days: 31),
              (nameMonth: "November", days: 31),
              (nameMonth: "December", days: 31),]
-
 print("\(array[3])")
 
 
